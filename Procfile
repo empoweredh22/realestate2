@@ -1,1 +1,1 @@
-web: form.rb
+web: ruby form.rb
